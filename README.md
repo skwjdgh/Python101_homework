@@ -1,4 +1,6 @@
-
+<p align>
+  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=PYTHON101&descAlign=59&section=header">
+  
 # Python101 Homeworks
 
 이 리포지토리는 Python101 수업에서 진행한 여러 가지 파이썬 과제들을 포함하고 있습니다. 
