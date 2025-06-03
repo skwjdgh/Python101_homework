@@ -7,7 +7,9 @@
   <a href="https://github.com/skwjdgh/Back">
     <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" />
   </a>
-  
+   <a href="https://github.com/skwjdgh/Python101_study">
+    <img align="center" src="https://img.shields.io/badge/goto-Python-green.svg" />
+  </a> 
 </h1>
 
 <p align="center">
